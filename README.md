@@ -52,6 +52,7 @@
    <h3> US Bank <h3> 
    <h3> April 2015 – April 2016 <h3>        
    <h3> Mortgage Purchase Compliance & Reviewer <h3> 
+       
        <p>•	Review the Mortgage Bond Loan Program to ensure any missing document </p>
        <P>•Prepare deficiency notices to request legal documentation from the lender</p>
        <p>•	Calculated, reviewed, and approve wire funds for lenders </P>
