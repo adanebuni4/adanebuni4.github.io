@@ -48,12 +48,13 @@
     <p> •Help taxpayers by using their federal,state and local codes and see to it that clients receive the maximum benefit  permitted under the law of government</p>
     <p> •Uncover potential deductions and credits </P>
     <P> •Generate financial statements in QuickBooks </P>
+    
    <h3> US Bank <h3> 
    <h3> April 2015 – April 2016 <h3>        
    <h3> Mortgage Purchase Compliance & Reviewer <h3> 
-    <p>  •Review the Mortgage Bond Loan Program to ensure any missing document </P>
-    <p>  •Prepare deficiency notices to request legal documentation from the lenders </P>
-    <p>  •Calculated, reviewed, and approve wire funds for lenders </P>
-
+       <p>•	Review the Mortgage Bond Loan Program to ensure any missing document </p>
+       <P>•Prepare deficiency notices to request legal documentation from the lender</p>
+       <p>•	Calculated, reviewed, and approve wire funds for lenders </P>
+    
 <body>
 <html>
