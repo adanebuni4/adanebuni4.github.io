@@ -1,5 +1,5 @@
 # adanebuni4.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title> Github Page </title>
