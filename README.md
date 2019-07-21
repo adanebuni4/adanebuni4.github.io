@@ -42,16 +42,16 @@
      <p> •Think of innovative ways to increase productivity standards daily,reduce the amount of inquiries,and shorten the time it takes to review,generate,andsend out invoices accurately</p>
      <p> •Create reports and excel spreadsheets for clients, management statistics and month-end reports </p> 
   <h3> Chalmers & Company, PLLC </h3>
-  January 2018 – April 2018  </h3>    
+  <h3> January 2018 – April 2018  </h3>    
   <h3> Tax Preparer/Bookkeeper </h3>
     <p> •Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.</p>
-    <p> •Help taxpayers by using their federal,state and local codes and see to it that clients receive the maximum benefit permitted under the law of government</p>
+    <p> •Help taxpayers by using their federal,state and local codes and see to it that clients receive the maximum benefit  permitted under the law of government</p>
     <p> •Uncover potential deductions and credits </P>
     <P> •Generate financial statements in QuickBooks </P>
    <h3> US Bank <h3> 
    <h3> April 2015 – April 2016 <h3>        
    <h3> Mortgage Purchase Compliance & Reviewer <h3> 
-    <p>   •Review the Mortgage Bond Loan Program to ensure any missing document </P>
+    <p>  •Review the Mortgage Bond Loan Program to ensure any missing document </P>
     <p>  •Prepare deficiency notices to request legal documentation from the lenders </P>
     <p>  •Calculated, reviewed, and approve wire funds for lenders </P>
 
